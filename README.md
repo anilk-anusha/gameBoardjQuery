@@ -18,9 +18,9 @@ This project is a part of the LEARN JQUERY course from Codecademy.
 
 The main purpose of this project is to understand traversing the DOM.
 
-- [ ] Click the More link to see the dropdown menu 
-- [ ] Click the Share link to see the Share menu
-- [ ] Click the notification bell
+- [x] Click the More link to see the dropdown menu 
+- [x] Click the Share link to see the Share menu
+- [x] Click the notification bell
 
 ## Screenshots
 
